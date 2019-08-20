@@ -20,7 +20,7 @@ Shows the Manager their options, view all products, view low inventory products 
 #View Sales Products Prompt
 Shows the Manager all of the current items in inventory.
 
-![View Sales Products Prompt](./images/viewSalesPrompt.png)
+![View Sales Products Prompt](./images/viewSalesProducts.png)
 
 #View Low Inventory Prompt
 Shows the Manger only the items that have a quantity fewer than 50.
